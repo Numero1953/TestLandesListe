@@ -1,1 +1,20 @@
-[{"id" : "at","capital" : "Wien","name" : "Österreich","population" : 8935112,},{"id" : "be","capital" : "Brüssel","name" : "Belgien","population" : 11492641,},{"id" : "de","capital" : "Berlin","name" : "Deutschland","population" : 83190556,}]
+[
+  {
+    "id" : "at",
+    "capital" : "Wien",
+    "name" : "Österreich",
+    "population" : 8935112,
+  },
+  {
+    "id" : "be",
+    "capital" : "Brüssel",
+    "name" : "Belgien",
+    "population" : 11492641,
+  },
+  {
+    "id" : "de",
+    "capital" : "Berlin",
+    "name" : "Deutschland",
+    "population" : 83190556,
+  }
+]
