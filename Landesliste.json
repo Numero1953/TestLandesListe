@@ -1,4 +1,5 @@
- [
+let jasonString = """
+[
      {
     "id" : "at",
     "capital" : "Wien",
@@ -18,3 +19,4 @@
       "population" : 83190556,
     }
 ]
+"""
