@@ -1,4 +1,5 @@
 [
+  [
   {
     "id" : "at",
     "capital" : "Wien",
@@ -14,4 +15,5 @@
     "capital" : "Berlin",
     "name" : "Deutschland"
   }
+   ]
 ]
