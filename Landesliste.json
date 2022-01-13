@@ -2,19 +2,16 @@
   {
     "id" : "at",
     "capital" : "Wien",
-    "name" : "Österreich",
-    "population" : 8935112,
+    "name" : "Österreich"
   },
   {
     "id" : "be",
     "capital" : "Brüssel",
-    "name" : "Belgien",
-    "population" : 11492641,
+    "name" : "Belgien"
   },
   {
     "id" : "de",
     "capital" : "Berlin",
-    "name" : "Deutschland",
-    "population" : 83190556,
+    "name" : "Deutschland"
   }
 ]
