@@ -1,5 +1,4 @@
-[
-  {
+ {
     "id" : "at",
     "capital" : "Wien",
     "name" : "Österreich"
@@ -14,4 +13,3 @@
     "capital" : "Berlin",
     "name" : "Deutschland"
   }
-]
