@@ -1,15 +1,5 @@
- {
-    "id" : "at",
-    "capital" : "Wien",
-    "name" : "Österreich"
-  },
-  {
-    "id" : "be",
-    "capital" : "Brüssel",
-    "name" : "Belgien"
-  },
-  {
-    "id" : "de",
-    "capital" : "Berlin",
-    "name" : "Deutschland"
-  }
+{
+  "id" : "at",
+  "capital" : "Wien",
+  "name" : "Österreich"
+}
