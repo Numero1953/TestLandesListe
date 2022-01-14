@@ -1,8 +1,61 @@
-
 [
   {
-  "id" : "at",
-  "capital" : "Wien",
-  "name" : "Österreich"
+    "id" : "at",
+    "capital" : "Wien",
+    "name" : "Austria",
+    "population" : 8935112,
+    "imageUrl": "https://www.ralfebert.de/examples/v3/at.jpg"
+  },
+  {
+    "id" : "be",
+    "capital" : "Brussels",
+    "name" : "Belgium",
+    "population" : 11492641,
+    "historyFact" : "In Belgium, there was no elected government for 589 days in 2010.",
+    "imageUrl": "https://www.ralfebert.de/examples/v3/be.jpg"
+  },
+  {
+    "id" : "de",
+    "capital" : "Berlin",
+    "name" : "Deutschland",
+    "population" : 83190556,
+    "historyFact" : "Germany was separated in two separate countries until 1989.",
+    "imageUrl": "https://www.ralfebert.de/examples/v3/de.jpg"
+  },
+  {
+    "id" : "gr",
+    "capital" : "Athens",
+    "name" : "Greece",
+    "population" : 10718565,
+    "imageUrl": "https://www.ralfebert.de/examples/v3/gr.jpg"
+  },
+  {
+    "id" : "fr",
+    "capital" : "Paris",
+    "name" : "France",
+    "population" : 67413000,
+    "imageUrl": "https://www.ralfebert.de/examples/v3/fr.jpg"
+  },
+  {
+    "id" : "gb",
+    "capital" : "London",
+    "currency" : {
+      "name" : "Â£",
+      "exchangeRateToEuro" : 1.17
+    },
+    "name" : "United Kingdom",
+    "population" : 67081000,
+    "imageUrl": "https://www.ralfebert.de/examples/v3/gb.jpg"
+  },
+  {
+    "id" : "ch",
+    "capital" : "Bern",
+    "currency" : {
+      "name" : "CHF",
+      "exchangeRateToEuro" : 0.93
+    },
+    "name" : "Switzerland",
+    "population" : 8570146,
+    "imageUrl": "https://www.ralfebert.de/examples/v3/ch.jpg"
   }
 ]
